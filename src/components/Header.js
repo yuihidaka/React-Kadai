@@ -15,9 +15,6 @@ const header = () => {
                 <li>
                     <Link to="/blog">ブログ</Link>
                 </li>
-                <li>
-                    <a href='#'>SNS</a>
-                </li>
             </ul>
         </nav>
     </header>
